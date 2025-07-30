@@ -20,7 +20,9 @@
 
 
 <!--Intro start-->
-Más de 2 años de experiencia como Desarrollador de Software. Con experiencia en el diseño, desarrollo de aplicaciones web y aplicaciones móviles. Proactivo y orientado a resultados, con habilidades para trabajar en equipo y resolver problemas de manera creativa utilizando tecnologías modernas.
+Desarrollador de Software con un año de experiencia en el diseño y desarrollo de aplicaciones web y móviles. Me destaco por
+ser proactivo, orientado a resultados y con sólidas habilidades para el trabajo en equipo. Me enfoco en la resolución creativa de
+problemas y en el uso eficiente de tecnologías modernas para ofrecer soluciones funcionales y escalables.
 <!--Intro end-->
 
 <!--h1 without bottom border-->
